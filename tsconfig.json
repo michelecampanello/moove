@@ -5,8 +5,6 @@
     "moduleResolution": "bundler",
     "lib": ["es2022", "dom"],
     "strict": true,
-    "rootDir": "src",
-    "outDir": "dist"
   },
-  "include": ["src"]
+  "include": ["src", "index.ts"]
 }
